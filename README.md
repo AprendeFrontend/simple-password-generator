@@ -14,7 +14,7 @@ Este reto consiste en replicar un diseño profesional utilizando **HTML**, **CSS
 
 A continuación, puedes ver cómo luce tu proyecto final.
 
-![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/guess-the-number/refs/heads/main/screenshots/guess-the-number.jpg)
+![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/simple-password-generator/refs/heads/main/screenshots/simple-password-generator.jpg)
 
 ---
 
